@@ -1,11 +1,11 @@
----
+---y
 title: Renaming a repository
 intro: You can rename a repository if you're either an organization owner or have admin permissions for the repository.
 redirect_from:
   - /articles/renaming-a-repository
   - /github/administering-a-repository/renaming-a-repository
   - /github/administering-a-repository/managing-repository-settings/renaming-a-repository
-versions:
+versions:h
   fpt: '*'
   ghes: '*'
   ghec: '*'
